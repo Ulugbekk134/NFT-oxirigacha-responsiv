@@ -1,0 +1,464 @@
+@media screen and (max-width:375px) {
+    .navbar {}
+
+    .container {}
+
+    .header {}
+
+    .display {
+        width: 375px;
+        height: 64px;
+
+    }
+
+    .list-b {
+        font-size: 16px;
+    }
+
+    .list {
+        display: none
+    }
+
+    .btn {}
+
+    .list-btn {
+        position: absolute;
+        left: 340px;
+        z-index: 2;
+    }
+
+    .main {
+        display: block;
+        margin-top: 10px;
+    }
+
+    .one {}
+
+    .bold {
+        font-size: 28px;
+    }
+
+    .bb {
+        font-size: 16px;
+    }
+
+    .btnn {
+        margin-top: 350px;
+        width: 315px;
+        height: 60px;
+        border-radius: 20px;
+    }
+
+    .dd {
+        font-size: 20px;
+
+        width: 315px;
+        height: 57px;
+    }
+
+    .two {
+        position: absolute;
+        top: 240px;
+        width: 315px;
+        height: 300px;
+    }
+
+    .planshet {
+        width: 315px;
+        height: 206px;
+    }
+
+    .sps {
+        font-size: 20px;
+    }
+
+    .l {}
+
+    .section {}
+
+    .container- {
+        margin-top: 200px;
+    }
+
+    .but- {
+        display: none;
+    }
+
+    .head {}
+
+    .br {
+        font-size: 28px;
+    }
+
+    .pc {
+        font-size: 16px;
+    }
+
+    .imgs {}
+
+    .cl {}
+
+    .css {}
+
+    .but {}
+
+    .uch {}
+
+    .ikki {
+        display: none;
+    }
+
+    .but- {}
+
+    .bir {}
+
+    .html {
+        margin-top: 30px;
+    }
+
+    .text-uchun {}
+
+    .textt {}
+
+    .p {}
+
+    .pp {}
+
+    .bntt {}
+
+    .bnt {
+        position: absolute;
+        top: 2300px;
+        left: 200px;
+        width: 335px;
+        height: 60px;
+    }
+
+    .footer {
+        display: block;
+
+    }
+
+    .hover {
+        margin-top: 30px;
+    }
+
+    .aa {}
+
+    .blok {
+        width: 60px;
+        height: 60px;
+        position: absolute;
+        top: 1740px;
+        margin-left: 10px;
+    }
+
+    .blokk {
+        width: 60px;
+        height: 60px;
+        position: absolute;
+        top: 1880px;
+        margin-left: 10px;
+    }
+
+    .blokkk {
+        width: 60px;
+        height: 60px;
+        position: absolute;
+        top: 2000px;
+        margin-left: 10px;
+    }
+
+    .blokkkk {
+        width: 60px;
+        height: 60px;
+        position: absolute;
+        top: 2130px;
+        margin-left: 10px;
+    }
+
+    .blokkkkk {
+        width: 60px;
+        height: 60px;
+        position: absolute;
+        top: 2260px;
+        margin-left: 10px;
+    }
+
+    .sales {
+        position: absolute;
+        margin-left: 90px;
+        top: 1730px;
+        width: 200px;
+        height: 60px;
+    }
+
+    .saless {
+        position: absolute;
+        margin-left: 90px;
+        top: 1870px;
+        width: 200px;
+        height: 60px;
+    }
+
+    .salesss {
+        position: absolute;
+        margin-left: 90px;
+        top: 2000px;
+        width: 200px;
+        height: 60px;
+    }
+
+    .salessss {
+        position: absolute;
+        margin-left: 90px;
+        top: 2130px;
+        width: 200px;
+        height: 60px;
+    }
+
+    .salesssss {
+        position: absolute;
+        margin-left: 90px;
+        top: 2260px;
+        width: 200px;
+        height: 60px;
+    }
+
+    .hoverr {
+        margin-top: 30px;
+
+    }
+
+    .saless {}
+
+    .hoverrr {
+        margin-top: 30px;
+    }
+
+    .salesss {}
+
+    .hoverrrr {
+        margin-top: 30px;
+    }
+
+    .salessss {}
+
+    .hoverrrrr {
+        margin-top: 30px;
+    }
+
+    .salesssss {}
+
+    .hoverrrrrr {
+        display: none;
+    }
+
+    .salessssss {}
+
+    .hoverrrrrrr {
+        display: none;
+    }
+
+    .hoverrrrrrrr {}
+
+    .hovere {}
+
+    .hoveree {}
+
+    .hovereee {}
+
+    .hovereeee {}
+
+    .ulu {
+        margin-top: 400px;
+    }
+
+    .yoz {}
+
+    .lists {
+        display: block;
+        display: grid;
+        grid-template-columns: 0fr 1fr;
+        gap: 18px;
+
+    }
+
+    .bro {
+        font-size: 28px;
+    }
+
+    .grid {}
+
+    .sas {}
+
+    .small {}
+
+    .smalll {}
+
+    .text-btn {}
+
+    .blacks {}
+
+    .buuu {
+        position: absolute;
+        top: 5350px;
+        left: 200px;
+        width: 315px;
+        height: 60px;
+    }
+
+    .Seel {}
+
+    .Seell {
+        display: block;
+
+    }
+
+    .Se {
+        width: 330px;
+        height: 462px;
+
+    }
+
+    .pt {}
+
+    .class {}
+
+    .b {}
+
+    .See {
+        width: 330px;
+        height: 462px;
+        margin-top: 30px;
+    }
+
+    .Seee {
+        display: inline-block;
+        width: 330px;
+        height: 462px;
+        background: #3B3B3B;
+        margin-top: 30px;
+
+    }
+
+    .bsh {}
+
+    .sec {
+        margin-top: 100px;
+        max-width: 375px;
+        height: 590px;
+        margin-left: 80px;
+    }
+
+    .secc {
+        max-width: 375px;
+        height: 590px;
+    }
+
+    .Icon {
+        margin-top: 200px;
+    }
+
+    .Icon-container {}
+
+    .Icon-text {}
+
+    .Icon-size {}
+
+    .find {}
+
+    .Icon-list {
+        display: block;
+    }
+
+    .Icon1 {
+
+        width: 345px;
+        height: 200px;
+    }
+
+    .px {
+        width: 100px;
+        height: 100px;
+        left: 200px;
+        margin-top: 30px;
+        position: absolute;
+    }
+
+    .wallet {
+        width: 155px;
+        height: 117px;
+        font-size: 20px;
+
+    }
+
+    .tag {
+        font-size: 16px;
+        margin-top: 30px;
+        margin-left: 100px;
+
+    }
+
+    .Icon2 {
+        margin-top: 30px;
+        width: 345px;
+        height: 200px;
+    }
+
+    .ic {}
+
+    .Icon3 {
+        margin-top: 30px;
+        width: 345px;
+        height: 200px;
+    }
+
+    .icc {}
+
+    .kosmos {}
+
+    .kosmos-div {
+        display: block;
+        width: 375px;
+        height: 645px;
+    }
+
+    .kosmos-rasm {}
+
+    .kosmos-text {}
+
+    .kosmos-size1 {}
+
+    .kosmos-size2 {}
+
+    .bac {}
+
+    .kosmos-btn {}
+
+    .end {}
+
+    .container-end {}
+
+    .list-end {
+        width: 375px;
+        height: 776px;
+        background-color: #3B3B3B;
+        margin-left: 190px;
+    }
+
+    .list-end-1 {}
+
+    .text-end-1 {}
+
+    .text-end-2 {}
+
+    .text-end-3 {}
+
+    .img-end {}
+
+    .list-end-2 {}
+
+    .list-end-3 {}
+
+}
