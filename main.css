@@ -1,0 +1,28 @@
+.g {
+    color: aqua;
+    margin-left: 680px;
+   font-size: 50px;
+}
+
+#username {
+    margin-left: 660px;
+    height: 30px;
+}
+
+#password {
+    margin-left: 660px;
+    height: 30px;
+}
+
+#loginBtn {
+    margin-left: 645px;
+    width: 200px;
+    height: 30px;
+    background-color: aqua;
+}
+#message{
+    font-size: 10px;
+    margin-left: 41pc;
+  position: absolute;
+  top: 210px;
+}
